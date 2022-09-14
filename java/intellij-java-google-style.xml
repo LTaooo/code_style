@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!--来源 https://github.com/ningg/styleguide-->
-<code_scheme name="GoogleStyle-NingG">
+<code_scheme name="GoogleStyle-LT">
     <option name="OTHER_INDENT_OPTIONS">
         <value>
             <option name="INDENT_SIZE" value="4" />
